@@ -1,0 +1,303 @@
+#kontejner{
+background-color:white;
+width:100%;
+
+}
+#heder{
+width:100%;
+height:150px;
+background-color:white;
+margin:auto;	
+
+}
+#levo{
+width:500px;
+height:150px;
+background-color:white;
+float:left;	
+}
+#desno{
+width:500px;
+height:150px;
+background-color:white;
+float:right;	
+}
+#logo{
+margin-left:20px;
+bottom:600px;
+left:100px;
+z-index:1;
+}
+#desno{
+text-align:right;
+flex-grow:1;
+}
+#desno a img{
+width:50px;
+height:50px;	
+margin:5px;
+}
+#meni{
+display:flex;
+
+}
+#meni a{
+flex-grow:1;
+text-align:center;
+font-size:35px;
+text-decoration:none;
+color:black;
+transition:600ms;
+font-family:bebas neue;	
+
+}
+#meni a:hover{
+background-color:#46E6EB;
+color:#ffffff	
+}
+#baner{
+width:100%;
+height:665px;
+}
+#linijaizmedju{
+width:100%;
+height:10px;
+background-color:black;	
+
+
+}
+
+#krug{
+width:100%;
+height:665px;	
+
+}
+
+.krugovi{
+display:flex;	
+text-align:center;
+width:800px;
+height:240px;
+margin:auto;
+background-color:white;
+
+}
+.krug-holder{
+flex-grow:1;
+}
+.krug{
+
+background:black;
+display:inline-block;
+padding:25%;
+width:30px; 
+height:30px;
+border-radius:50%;	
+margin-top:30px;
+text-align:center;
+
+}
+
+.krug img{
+width:30px;
+height:30px;
+text-align:center;	
+	
+}
+.oznaka img{
+width:40px;
+height:40px;
+text-align:center;	
+	
+}
+#mapa{
+width:100%;
+height:450px;
+background-color:white;	
+}
+#footer{
+width:100%;
+height:300px;
+background-color:black;	
+}
+#footer1{
+width:100%;
+height:200px;
+background-color:black;	
+
+}
+#sredinafuter{
+width:380px;
+height:150px;
+margin:auto;
+background-color:black;	
+text-align:center;
+}
+#sredinafuter1{
+width:340px;
+height:80px;
+margin:auto;
+background-color:black;	
+text-align:center;	
+}
+.ulica{
+color:white;
+font-size:20px;
+font-family:bebas neue;
+text-align:center;
+padding-top:0px;
+margin:0px;
+}
+#sredinafuter a img{
+width:50px;
+height:50px;	
+margin:5px;
+}
+#sredinafuter1 a img{
+width:50px;
+height:50px;	
+margin:5px;
+}
+#krugzasliku{
+width:200px;
+height:200px;
+background-color:#2B3D05;
+border-radius:50%;
+z-index:1;
+position:absolute;
+top:925px;
+margin-left:50px;
+text-align:center;
+}
+#krugzasliku p{
+font-family:bebas neue;	
+font-size:35px;
+padding-top:25px;
+position:center;
+color:white;
+}
+.back-to-top{
+width:70px;
+height:65px;
+background-color:#298C75;
+border-radius:50%;
+float:right;
+margin-top:1px;	
+margin-right:5px;
+text-align:center;
+
+}
+.up{
+width:55px;
+height:60px;
+}
+#wrapper{
+width:100%;
+height:1370px;
+background-color:white;	
+padding-top:50px;
+padding-bottom:10px;
+}
+#main-kontaktcontainer{
+width:1200px;
+height:1370px;
+background-color:white;
+margin:auto;	
+border-radius:10px;
+border: 1px solid black;
+
+}
+#row{
+width:1200px;
+height:300px;
+background-color:white;	
+text-align: center;
+letter-spacing: 1.5px;
+color: #985c53;
+}
+.pod{
+font-family: bebas neue;
+font-size:30px;
+text-align: center;
+color: black;
+}
+form{
+width:1180px;
+height:560px;
+background-color:white;
+margin:auto;
+padding-top:20px;	
+}
+.p {
+    margin-left: 25px;
+	box-sizing: border-box;
+	
+}
+input, textarea {
+    width: 800px;
+	font-size:20px;
+	
+}
+label {
+    height: fit-content;
+    float: left;
+    width: 10em;
+	font-size:25px;
+	font-family:bebas neue;
+	
+}
+#posalji {
+    width: 800px;
+	margin-left:250px;
+}
+
+#lPosalji {
+    visibility: hidden;
+}
+
+
+.kontejnerjs {
+background-color:white;
+width:100%;
+height:1890px;
+padding-top:50px;
+}
+.podkontejner{
+width:100%;
+height:460px;
+background-color:white;
+border-bottom:3px solid #000000;
+text-align:center;
+padding-top:10px;
+	
+}
+#levo1{
+width:50%;	
+height:400px;
+background-color:white;
+float:left;
+
+
+}
+#desno1{
+width:50%;	
+height:400px;
+background-color:white;
+float:left;
+text-align:center;
+
+}
+.nazivi {
+font-size:40px;
+font-family:Bebas nue;
+padding-top:170px;
+color:#black;
+
+}
+
+
+
+
+
+
+
